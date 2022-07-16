@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @fedevso
+- 👋 Hi, I’m @feofeng
 - 👀 I’m interested in website and software development
 - 🌱 I’m currently learning JavaScript, HTML 5 and CSS 3
 - 💞️ I’m looking to collaborate on something that could help me as a beginner
